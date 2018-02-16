@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void	ft_take_place(int hour)
+void	ft_takes_place(int hour)
 {
 	int	h;
 
